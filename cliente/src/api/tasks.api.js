@@ -9,7 +9,12 @@ export const getAllTasks = () => {
 	return tasksApi.get('/');
 }
 
+export const getTask = (id) => tasksApi.get(`/${id}/`)
+
 export const createTask=(task) => {
-	return tasksApi.post('/', task);
-	
+	return tasksApi.post('/', task);	
 }
+
+export const deleteTask = (id) => tasksApi.delete(`/${id}`)
+
+export const updateTask = (id, task) => tasksApi.put(`/${id}/`, task)
