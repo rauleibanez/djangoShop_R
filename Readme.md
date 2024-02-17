@@ -1,9 +1,9 @@
 ## Aplicación de control de Tareas
 
-Aplicación CRUD para guardar información de Tareas
+Aplicación para Administrar Actividades, versión mejoradas usando React y Django Rest Framework
 
 | BackEnd | FrontEnd | Repositorio de Datos |
-|-|-|
+|-|-|-|
 | APIs RestFramework Django   | React y Tailwinds | SQLite3 |
 
 ---
@@ -28,6 +28,10 @@ Paqueteria Utilizada en React
 | react-hook-form | ^7.47.0 |
 | react-hot-toast | ^2.4.1 |
 | react-router-dom | ^6.18.0 | 
+
+---
+
+![Alt](imagen1.png)
 
 ---
 

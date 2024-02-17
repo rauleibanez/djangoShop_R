@@ -5,3 +5,5 @@ staticfiles/
 node_modules
 # environment variables
 .env.local
+# notas
+nota.txt
