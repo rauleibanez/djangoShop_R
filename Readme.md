@@ -32,6 +32,8 @@ Paqueteria Utilizada en React
 ---
 
 ![Alt](imagen1.png)
+![Alt](imagen2.png)
+![Alt](imagen3.png)
 
 ---
 
